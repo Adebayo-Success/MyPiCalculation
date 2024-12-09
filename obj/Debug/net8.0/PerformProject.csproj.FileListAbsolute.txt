@@ -1,0 +1,14 @@
+C:\Users\SYS-232\Desktop\PerformProject\bin\Debug\net8.0\PerformProject.exe
+C:\Users\SYS-232\Desktop\PerformProject\bin\Debug\net8.0\PerformProject.deps.json
+C:\Users\SYS-232\Desktop\PerformProject\bin\Debug\net8.0\PerformProject.runtimeconfig.json
+C:\Users\SYS-232\Desktop\PerformProject\bin\Debug\net8.0\PerformProject.dll
+C:\Users\SYS-232\Desktop\PerformProject\bin\Debug\net8.0\PerformProject.pdb
+C:\Users\SYS-232\Desktop\PerformProject\obj\Debug\net8.0\PerformProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SYS-232\Desktop\PerformProject\obj\Debug\net8.0\PerformProject.AssemblyInfoInputs.cache
+C:\Users\SYS-232\Desktop\PerformProject\obj\Debug\net8.0\PerformProject.AssemblyInfo.cs
+C:\Users\SYS-232\Desktop\PerformProject\obj\Debug\net8.0\PerformProject.csproj.CoreCompileInputs.cache
+C:\Users\SYS-232\Desktop\PerformProject\obj\Debug\net8.0\PerformProject.dll
+C:\Users\SYS-232\Desktop\PerformProject\obj\Debug\net8.0\refint\PerformProject.dll
+C:\Users\SYS-232\Desktop\PerformProject\obj\Debug\net8.0\PerformProject.pdb
+C:\Users\SYS-232\Desktop\PerformProject\obj\Debug\net8.0\PerformProject.genruntimeconfig.cache
+C:\Users\SYS-232\Desktop\PerformProject\obj\Debug\net8.0\ref\PerformProject.dll
